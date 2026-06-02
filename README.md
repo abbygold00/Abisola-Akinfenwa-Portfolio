@@ -1,61 +1,32 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+Hi, I'm Abisola 👋
+Software Engineer based in TX — building reliable systems, clean APIs, and data-driven tools.
+I currently work at Bank of America as a Software Engineer II, where I own deployment operations for internal banking databases, and coordinate production releases across engineering and business teams. I'm also exploring the intersection of software engineering and machine learning, with a focus on building AI-powered applications.
+---
+🛠 Tech Stack
+Languages
+`Python` `Java` `SQL` `HTML`
+Tools & Platforms
+`Git` `JIRA` `Ansible` `XLR Jenkins` `GitHub Copilot` `SOAPUI` `IntelliJ` `PostgreSQL`
+Concepts
+`REST API Development & Testing` `Agile/Scrum` `DevOps` `CI/CD` `Database Management`
+Certifications
+`AWS Cloud Practitioner`
+---
+🚀 Featured Projects
+Project	Description	Stack
+ServiceCircle	Local service ratings platform connecting communities with trusted providers	React, Vite, Node.js
+TrustLocal	Mobile app prototype for reviewing local freelancers and contractors	React Native
+AI Student Scheduler	Web app using weather + AI to generate adaptive daily schedules for students	Python, AI API
+Autonomous Sanitation Robot	LiDAR-guided UV sanitation robot built on Raspberry Pi	Python, Raspberry Pi, LiDAR
+---
+ Currently
+Software Engineer II @ Bank of America
+AWS Interests
+Exploring machine learning engineering and graduate programs in ML/AI
+Building full-stack projects that solve real community problems
+---
+📫 Let's Connect
+![Email](https://img.shields.io/badge/Email-abiakinfen%40gmail.com-blue?style=flat&logo=gmail)
+---
+"Build things that matter, ship things that work."
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
-
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
-
-So far we've got:
-
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-- PWA ready.
-- SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
-
-Few things I'd like to add in the future:
-
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
-
-## Quickstart
-
-### Prerequisites
-
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
-- [Node.js](https://nodejs.org/en/)
-
-```bash
-# ensure you have the prerequisites
-# install
-brew install node && brew install yarn
-
-# OR update
-brew update && brew upgrade && brew install yarn
-
-# install dependencies
-yarn install
-
-# serve with hot reload at localhost:3000
-yarn dev
-
-# build for production with minification
-yarn generate
-
-# run all tests
-yarn test
-```
-
-### Using Netlify CMS
-
-1. Deploy to Netlify.
-2. Enable Identity under Settings.
-3. Configure registration preferences & external providers if needed.
-4. Enable Git Gateway.
-
-_Note: You'll need to specify the Netlify URL when browsing the admin page locally._
